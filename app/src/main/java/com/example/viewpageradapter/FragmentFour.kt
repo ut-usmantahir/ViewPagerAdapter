@@ -21,7 +21,7 @@ class FragmentFour : Fragment() {
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-      tv_fragment_name.text = "Fragment Four"
+      //tv_fragment_name.text = "Fragment Four"
     }
 
 }
